@@ -1,4 +1,4 @@
-# parcel-1.8.x-freezbug example repo
+# parcel-1.9.x-freezbug example repo
 
 ## Instructions 
 
